@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="brithday_comment">Happy Brithday Android!</string>
+    <string name="from_comment">-from Jaewon</string>
+</resources>

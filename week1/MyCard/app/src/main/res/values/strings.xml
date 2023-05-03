@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCard</string>
+    <string name="name">Jaewon Seo</string>
+    <string name="job">Android Noob Developer</string>
+    <string name="phonenumber">+82) 010 8475 9062</string>
+    <string name="instagram">librarywon</string>
+    <string name="email">librarywon@naver.com</string>
+    <string name="desc_android">android icon</string>
+    <string name="desc_phone">phone icon</string>
+    <string name="desc_share">share icon</string>
+    <string name="desc_mail">mail icon</string>
+</resources>
